@@ -64,6 +64,4 @@ python gomulu2.py
 * FPS değeri ekranda gösterilmektedir
 * Çıkmak için 'Q' tuşuna basabilirsiniz
 
-## 👨‍💻 Geliştirici
 
-[Adını buraya yaz]
